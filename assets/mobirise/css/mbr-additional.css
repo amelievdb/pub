@@ -520,6 +520,7 @@ h6,
 #slider3-2 P {
   font-family: 'Roboto', sans-serif;
   font-size: 24px;
+  text-align: left;
 }
 #slider3-2 H2 {
   font-family: 'Roboto', sans-serif;
@@ -545,7 +546,10 @@ h6,
   font-family: 'Roboto', sans-serif;
 }
 #slider3-1 B {
-  font-size: 24px;
+  font-size: 25px;
+}
+#slider3-1 I {
+  font-size: 30px;
 }
 
 
