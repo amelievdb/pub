@@ -1,6 +1,6 @@
 @import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
-@import url(https://fonts.googleapis.com/css?family=Roboto:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Lato:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Roboto:400,300,700);
 
 
 
@@ -444,11 +444,11 @@ h6,
   font-family: 'Raleway', sans-serif;
 }
 #menu-0 .link {
-  font-size: 1rem;
+  font-size: 1.15rem;
 }
 #menu-0 .dropdown-item,
 #menu-0 .nav-dropdown-sm .link {
-  font-size: 1.083rem;
+  font-size: 1.245rem;
 }
 #menu-0 .link:hover,
 #menu-0 .dropdown-item:hover,
@@ -458,19 +458,19 @@ h6,
 }
 #menu-0 .link[aria-expanded="true"],
 #menu-0 .dropdown-menu {
-  background: #e6e6e6;
+  background: #000000;
 }
 #menu-0 .nav-dropdown-sm .link:focus,
 #menu-0 .nav-dropdown-sm .link:hover,
 #menu-0 .nav-dropdown-sm .dropdown-item:focus,
 #menu-0 .nav-dropdown-sm .dropdown-item:hover {
-  background: #f7f7f7!important;
+  background: #000000!important;
 }
 #menu-0 .navbar,
 #menu-0 .nav-dropdown-sm,
 #menu-0 .nav-dropdown-sm .link[aria-expanded="true"],
 #menu-0 .nav-dropdown-sm .dropdown-menu {
-  background: #ffffff;
+  background: #000000;
 }
 #menu-0 .bg-color.transparent .link {
   color: #c1c1c1;
@@ -499,9 +499,9 @@ h6,
 }
 #header1-0 .mbr-section-title {
   text-align: center;
-  color: #1a1818;
-  font-size: 60px;
-  font-family: 'Roboto', sans-serif;
+  color: #ffffff;
+  font-size: 36px;
+  font-family: 'Raleway', sans-serif;
 }
 #header1-0 .mbr-section-title P {
   color: #ffffff;
@@ -511,6 +511,8 @@ h6,
 #header1-0 .mbr-section-title SPAN {
   color: #ffffff;
   font-family: 'Raleway', sans-serif;
+  font-size: 60px;
+  text-align: center;
 }
 #contacts1-0 P {
   color: #000000;
@@ -541,11 +543,11 @@ h6,
   font-family: 'Raleway', sans-serif;
 }
 #menu-1 .link {
-  font-size: 1rem;
+  font-size: 1.15rem;
 }
 #menu-1 .dropdown-item,
 #menu-1 .nav-dropdown-sm .link {
-  font-size: 1.083rem;
+  font-size: 1.245rem;
 }
 #menu-1 .link:hover,
 #menu-1 .dropdown-item:hover,
@@ -622,11 +624,11 @@ h6,
   font-family: 'Raleway', sans-serif;
 }
 #menu-d .link {
-  font-size: 1rem;
+  font-size: 1.15rem;
 }
 #menu-d .dropdown-item,
 #menu-d .nav-dropdown-sm .link {
-  font-size: 1.083rem;
+  font-size: 1.245rem;
 }
 #menu-d .link:hover,
 #menu-d .dropdown-item:hover,
@@ -705,11 +707,11 @@ h6,
   font-family: 'Raleway', sans-serif;
 }
 #menu-d .link {
-  font-size: 1rem;
+  font-size: 1.15rem;
 }
 #menu-d .dropdown-item,
 #menu-d .nav-dropdown-sm .link {
-  font-size: 1.083rem;
+  font-size: 1.245rem;
 }
 #menu-d .link:hover,
 #menu-d .dropdown-item:hover,
@@ -794,11 +796,11 @@ h6,
   font-family: 'Raleway', sans-serif;
 }
 #menu-d .link {
-  font-size: 1rem;
+  font-size: 1.15rem;
 }
 #menu-d .dropdown-item,
 #menu-d .nav-dropdown-sm .link {
-  font-size: 1.083rem;
+  font-size: 1.245rem;
 }
 #menu-d .link:hover,
 #menu-d .dropdown-item:hover,
@@ -890,11 +892,11 @@ h6,
   font-family: 'Raleway', sans-serif;
 }
 #menu-d .link {
-  font-size: 1rem;
+  font-size: 1.15rem;
 }
 #menu-d .dropdown-item,
 #menu-d .nav-dropdown-sm .link {
-  font-size: 1.083rem;
+  font-size: 1.245rem;
 }
 #menu-d .link:hover,
 #menu-d .dropdown-item:hover,
@@ -966,11 +968,11 @@ h6,
   font-family: 'Raleway', sans-serif;
 }
 #menu-d .link {
-  font-size: 1rem;
+  font-size: 1.15rem;
 }
 #menu-d .dropdown-item,
 #menu-d .nav-dropdown-sm .link {
-  font-size: 1.083rem;
+  font-size: 1.245rem;
 }
 #menu-d .link:hover,
 #menu-d .dropdown-item:hover,
@@ -980,19 +982,19 @@ h6,
 }
 #menu-d .link[aria-expanded="true"],
 #menu-d .dropdown-menu {
-  background: #e6e6e6;
+  background: #000000;
 }
 #menu-d .nav-dropdown-sm .link:focus,
 #menu-d .nav-dropdown-sm .link:hover,
 #menu-d .nav-dropdown-sm .dropdown-item:focus,
 #menu-d .nav-dropdown-sm .dropdown-item:hover {
-  background: #f7f7f7!important;
+  background: #000000!important;
 }
 #menu-d .navbar,
 #menu-d .nav-dropdown-sm,
 #menu-d .nav-dropdown-sm .link[aria-expanded="true"],
 #menu-d .nav-dropdown-sm .dropdown-menu {
-  background: #ffffff;
+  background: #000000;
 }
 #menu-d .bg-color.transparent .link {
   color: #c1c1c1;
@@ -1019,6 +1021,9 @@ h6,
 #menu-d .close-icon::after {
   background-color: #c1c1c1;
 }
+#gallery4-g LI {
+  color: #c1c1c1;
+}
 
 
 #menu-2w .hide-buttons .nav-btn {
@@ -1038,11 +1043,11 @@ h6,
   font-family: 'Raleway', sans-serif;
 }
 #menu-2w .link {
-  font-size: 1rem;
+  font-size: 1.15rem;
 }
 #menu-2w .dropdown-item,
 #menu-2w .nav-dropdown-sm .link {
-  font-size: 1.083rem;
+  font-size: 1.245rem;
 }
 #menu-2w .link:hover,
 #menu-2w .dropdown-item:hover,

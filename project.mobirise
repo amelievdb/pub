@@ -2,7 +2,7 @@
   "settings": {
     "currentPage": "index.html",
     "versionFirst": "3.8.1",
-    "uniqCompNum": 107,
+    "uniqCompNum": 109,
     "versionPublish": "3.12.1",
     "name": "My Site",
     "theme": {
@@ -61,22 +61,22 @@
               "font-family": "'Raleway', sans-serif"
             },
             ".link": {
-              "font-size": "1rem"
+              "font-size": "1.15rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "1.083rem"
+              "font-size": "1.245rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#e6e6e6"
+              "background": "#000000"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#f7f7f7!important"
+              "background": "#000000!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#ffffff"
+              "background": "#000000"
             },
             ".bg-color.transparent .link": {
               "color": "#c1c1c1",
@@ -105,8 +105,8 @@
           "_name": "menu",
           "_anchor": "menu-0",
           "_params": {
-            "bgColor": "#ffffff",
-            "fontSize": "1",
+            "bgColor": "#000000",
+            "fontSize": "1.15",
             "fontName": {
               "name": "Raleway",
               "url": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
@@ -118,7 +118,7 @@
             "sticky": false,
             "logo": false,
             "showBrand": true,
-            "collapsed": true,
+            "collapsed": false,
             "hideButtons": true
           },
           "logo": {
@@ -137,7 +137,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Amelie Vanden Berghe<br>Studente textielontwerp<br>LUCA School of Arts<br></a>",
+          "brand": "<a class=\"navbar-caption text-primary\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
           "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"true\" target=\"_blank\" data-toggle=\"dropdown-submenu\">\u001bLees meer</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">Home</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Over Amelie.html\">Over Amelie<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Beeldarchief.html\">Beeldarchief<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Borduurwerk.html\">Borduurwerk<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Weefsels.html\">Weefsels</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Breistructuren.html\">Breistructuren</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Schapenwol.html\">Schapenwol</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"contact\">Contact</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\" style=\"display: inline !important;\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
@@ -148,10 +148,10 @@
           "_styles": {
             ".mbr-section-title": {
               "text-align": "center",
-              "color": "#1a1818",
-              "font-size": "60px",
-              "font-family": "'Roboto', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
+              "color": "#ffffff",
+              "font-size": "36px",
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
             },
             ".mbr-section-title P": {
               "color": "#ffffff",
@@ -162,7 +162,9 @@
             ".mbr-section-title SPAN": {
               "color": "#ffffff",
               "font-family": "'Raleway', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "font-size": "60px",
+              "text-align": "center"
             }
           },
           "_anchor": "header1-0",
@@ -177,15 +179,15 @@
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "bgVideoRadio": false,
-            "overlay": false,
-            "overlayOpacity": "0.3",
+            "overlay": true,
+            "overlayOpacity": "0.2",
             "overlayColor": "#000",
             "contentAlign": "center",
-            "showTitle": false,
-            "showText": false,
+            "showTitle": true,
+            "showText": true,
             "showButtons": false
           },
-          "title": "<span style=\"font-weight: normal;\">Amelie Vanden Berghe</span><span style=\"font-weight: normal;\"><br></span>",
+          "title": "<span style=\"font-weight: normal;\">Amelie Vanden Berghe</span><br>Studente textielontwerp&nbsp;<br><br><br>",
           "text": "",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>"
         },
@@ -208,7 +210,7 @@
           },
           "_anchor": "contacts1-0",
           "_params": {
-            "paddingTop": 3,
+            "paddingTop": "2",
             "paddingBottom": "1",
             "bgImageRadio": false,
             "parallax": true,
@@ -224,7 +226,7 @@
               "src": "@PROJECT_PATH@/assets/images/nieuwe-zeefdr-kopie.svg",
               "width": 128,
               "active": true,
-              "link": "",
+              "link": "Over Amelie.html",
               "alt": "",
               "title": "",
               "linkInNewWindow": false
@@ -268,10 +270,10 @@
               "font-family": "'Raleway', sans-serif"
             },
             ".link": {
-              "font-size": "1rem"
+              "font-size": "1.15rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "1.083rem"
+              "font-size": "1.245rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -313,7 +315,7 @@
           "_anchor": "menu-1",
           "_params": {
             "bgColor": "#ffffff",
-            "fontSize": "1",
+            "fontSize": "1.15",
             "fontName": {
               "name": "Raleway",
               "url": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
@@ -325,7 +327,7 @@
             "sticky": false,
             "logo": false,
             "showBrand": true,
-            "collapsed": true,
+            "collapsed": false,
             "hideButtons": true
           },
           "logo": {
@@ -344,7 +346,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Amelie Vanden Berghe<br>Studente textielontwerp<br>LUCA School of Arts<br></a>",
+          "brand": "<a class=\"navbar-caption text-primary\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Amelie Vanden Berghe<br>Studente textielontwerp<br>LUCA School of Arts<br></a>",
           "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"true\" target=\"_blank\" data-toggle=\"dropdown-submenu\">\u001bLees meer</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">Home</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Over Amelie.html\">Over Amelie<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Beeldarchief.html\">Beeldarchief<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Borduurwerk.html\">Borduurwerk<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Weefsels.html\">Weefsels</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Breistructuren.html\">Breistructuren</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Schapenwol.html\">Schapenwol</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"contact\">Contact</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\" style=\"display: inline !important;\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
@@ -366,7 +368,7 @@
           },
           "_anchor": "contacts1-2",
           "_params": {
-            "paddingTop": 3,
+            "paddingTop": "2",
             "paddingBottom": "1",
             "bgImageRadio": false,
             "parallax": true,
@@ -429,10 +431,10 @@
               "font-family": "'Raleway', sans-serif"
             },
             ".link": {
-              "font-size": "1rem"
+              "font-size": "1.15rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "1.083rem"
+              "font-size": "1.245rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -477,7 +479,7 @@
           "_anchor": "menu-d",
           "_params": {
             "bgColor": "#ffffff",
-            "fontSize": "1",
+            "fontSize": "1.15",
             "fontName": {
               "name": "Raleway",
               "url": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
@@ -489,7 +491,7 @@
             "sticky": false,
             "logo": false,
             "showBrand": true,
-            "collapsed": true,
+            "collapsed": false,
             "hideButtons": true
           },
           "logo": {
@@ -508,7 +510,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Amelie Vanden Berghe<br>Studente textielontwerp<br>LUCA School of Arts<br></a>",
+          "brand": "<a class=\"navbar-caption text-primary\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Amelie Vanden Berghe<br>Studente textielontwerp<br>LUCA School of Arts<br></a>",
           "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"true\" target=\"_blank\" data-toggle=\"dropdown-submenu\">\u001bLees meer</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">Home</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Over Amelie.html\">Over Amelie<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Beeldarchief.html\">Beeldarchief<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Borduurwerk.html\">Borduurwerk<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Weefsels.html\">Weefsels</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Breistructuren.html\">Breistructuren</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Schapenwol.html\">Schapenwol</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"contact\">Contact</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\" style=\"display: inline !important;\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
@@ -585,10 +587,10 @@
               "font-family": "'Raleway', sans-serif"
             },
             ".link": {
-              "font-size": "1rem"
+              "font-size": "1.15rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "1.083rem"
+              "font-size": "1.245rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -633,7 +635,7 @@
           "_anchor": "menu-d",
           "_params": {
             "bgColor": "#ffffff",
-            "fontSize": "1",
+            "fontSize": "1.15",
             "fontName": {
               "name": "Raleway",
               "url": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
@@ -645,7 +647,7 @@
             "sticky": false,
             "logo": false,
             "showBrand": true,
-            "collapsed": true,
+            "collapsed": false,
             "hideButtons": true
           },
           "logo": {
@@ -664,7 +666,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Amelie Vanden Berghe<br>Studente textielontwerp<br>LUCA School of Arts<br></a>",
+          "brand": "<a class=\"navbar-caption text-primary\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Amelie Vanden Berghe<br>Studente textielontwerp<br>LUCA School of Arts<br></a>",
           "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"true\" target=\"_blank\" data-toggle=\"dropdown-submenu\">\u001bLees meer</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">Home</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Over Amelie.html\">Over Amelie<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Beeldarchief.html\">Beeldarchief<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Borduurwerk.html\">Borduurwerk<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Weefsels.html\">Weefsels</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Breistructuren.html\">Breistructuren</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Schapenwol.html\">Schapenwol</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"contact\">Contact</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\" style=\"display: inline !important;\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
@@ -780,10 +782,10 @@
               "font-family": "'Raleway', sans-serif"
             },
             ".link": {
-              "font-size": "1rem"
+              "font-size": "1.15rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "1.083rem"
+              "font-size": "1.245rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -828,7 +830,7 @@
           "_anchor": "menu-d",
           "_params": {
             "bgColor": "#ffffff",
-            "fontSize": "1",
+            "fontSize": "1.15",
             "fontName": {
               "name": "Raleway",
               "url": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
@@ -840,7 +842,7 @@
             "sticky": false,
             "logo": false,
             "showBrand": true,
-            "collapsed": true,
+            "collapsed": false,
             "hideButtons": true
           },
           "logo": {
@@ -859,7 +861,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Amelie Vanden Berghe<br>Studente textielontwerp<br>LUCA School of Arts<br></a>",
+          "brand": "<a class=\"navbar-caption text-primary\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Amelie Vanden Berghe<br>Studente textielontwerp<br>LUCA School of Arts<br></a>",
           "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"true\" target=\"_blank\" data-toggle=\"dropdown-submenu\">\u001bLees meer</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">Home</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Over Amelie.html\">Over Amelie<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Beeldarchief.html\">Beeldarchief<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Borduurwerk.html\">Borduurwerk<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Weefsels.html\">Weefsels</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Breistructuren.html\">Breistructuren</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Schapenwol.html\">Schapenwol</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"contact\">Contact</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\" style=\"display: inline !important;\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
@@ -1028,10 +1030,10 @@
               "font-family": "'Raleway', sans-serif"
             },
             ".link": {
-              "font-size": "1rem"
+              "font-size": "1.15rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "1.083rem"
+              "font-size": "1.245rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -1076,7 +1078,7 @@
           "_anchor": "menu-d",
           "_params": {
             "bgColor": "#ffffff",
-            "fontSize": "1",
+            "fontSize": "1.15",
             "fontName": {
               "name": "Raleway",
               "url": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
@@ -1088,7 +1090,7 @@
             "sticky": false,
             "logo": false,
             "showBrand": true,
-            "collapsed": true,
+            "collapsed": false,
             "hideButtons": true
           },
           "logo": {
@@ -1107,7 +1109,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Amelie Vanden Berghe<br>Studente textielontwerp<br>LUCA School of Arts<br></a>",
+          "brand": "<a class=\"navbar-caption text-primary\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Amelie Vanden Berghe<br>Studente textielontwerp<br>LUCA School of Arts<br></a>",
           "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"true\" target=\"_blank\" data-toggle=\"dropdown-submenu\">\u001bLees meer</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">Home</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Over Amelie.html\">Over Amelie<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Beeldarchief.html\">Beeldarchief<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Borduurwerk.html\">Borduurwerk<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Weefsels.html\">Weefsels</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Breistructuren.html\">Breistructuren</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Schapenwol.html\">Schapenwol</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"contact\">Contact</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\" style=\"display: inline !important;\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
@@ -1211,22 +1213,22 @@
               "font-family": "'Raleway', sans-serif"
             },
             ".link": {
-              "font-size": "1rem"
+              "font-size": "1.15rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "1.083rem"
+              "font-size": "1.245rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#e6e6e6"
+              "background": "#000000"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#f7f7f7!important"
+              "background": "#000000!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#ffffff"
+              "background": "#000000"
             },
             ".bg-color.transparent .link": {
               "color": "#c1c1c1",
@@ -1255,8 +1257,8 @@
           "_name": "menu",
           "_anchor": "menu-d",
           "_params": {
-            "bgColor": "#ffffff",
-            "fontSize": "1",
+            "bgColor": "#000000",
+            "fontSize": "1.15",
             "fontName": {
               "name": "Raleway",
               "url": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
@@ -1268,7 +1270,7 @@
             "sticky": false,
             "logo": false,
             "showBrand": true,
-            "collapsed": true,
+            "collapsed": false,
             "hideButtons": true
           },
           "logo": {
@@ -1287,7 +1289,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Amelie Vanden Berghe<br>Studente textielontwerp<br>LUCA School of Arts<br></a>",
+          "brand": "<a class=\"navbar-caption text-primary\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
           "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"true\" target=\"_blank\" data-toggle=\"dropdown-submenu\">\u001bLees meer</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">Home</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Over Amelie.html\">Over Amelie<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Beeldarchief.html\">Beeldarchief<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Borduurwerk.html\">Borduurwerk<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Weefsels.html\">Weefsels</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Breistructuren.html\">Breistructuren</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Schapenwol.html\">Schapenwol</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"contact\">Contact</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\" style=\"display: inline !important;\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
@@ -1296,8 +1298,13 @@
             "Theme"
           ],
           "_name": "gallery4",
+          "_styles": {
+            "LI": {
+              "color": "#c1c1c1"
+            }
+          },
           "_params": {
-            "paddingTop": 0,
+            "paddingTop": "4",
             "paddingBottom": "0",
             "images": [
               {
@@ -1338,7 +1345,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/achterkomer-2-2000x2666-67-2000x2666-68.jpg",
                 "image": "@PROJECT_PATH@/assets/images/achterkomer-2-2000x2666-67.jpg",
                 "caption": "Type caption here",
-                "active": true
+                "active": false
               },
               {
                 "tags": "Tijdsverloop",
@@ -1408,7 +1415,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/beeld-12-2000x1500-28-2000x1500-39.jpg",
                 "image": "@PROJECT_PATH@/assets/images/beeld-12-2000x1500-28.jpg",
                 "caption": "Type caption here",
-                "active": false
+                "active": true
               }
             ],
             "spacing": "1",
@@ -1421,7 +1428,103 @@
           },
           "_anchor": "gallery4-g",
           "articleLayout": false,
-          "allItem": ""
+          "allItem": "All"
+        },
+        {
+          "_inherit": "gallery1",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery4",
+          "_params": {
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "images": [
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/bike-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/bike.jpg",
+                "caption": "Type caption here",
+                "active": true
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/code-man-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/code-man.jpg",
+                "caption": "Type caption here"
+              },
+              {
+                "tags": "Creative",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/coworkers-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/coworkers.jpg",
+                "caption": "Type caption here"
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/desktop-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/desktop.jpg",
+                "caption": "Type caption here"
+              },
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/room-laptop-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+                "caption": "Type caption here"
+              },
+              {
+                "tags": "Beautiful",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/table-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/table.jpg",
+                "caption": "Type caption here"
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/windows-books-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
+                "caption": "Type caption here"
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/working-area-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/working-area.jpg",
+                "caption": "Type caption here"
+              }
+            ],
+            "spacing": 1,
+            "showText": false,
+            "filter": true,
+            "bgColor": "fff",
+            "filterBgColor": false,
+            "fullWidth": false,
+            "showBullets": true
+          },
+          "_anchor": "gallery4-2z",
+          "articleLayout": false,
+          "allItem": "ggshhdsjkghkjsdgghAll"
         }
       ]
     },
@@ -1452,10 +1555,10 @@
               "font-family": "'Raleway', sans-serif"
             },
             ".link": {
-              "font-size": "1rem"
+              "font-size": "1.15rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "1.083rem"
+              "font-size": "1.245rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -1497,7 +1600,7 @@
           "_anchor": "menu-2w",
           "_params": {
             "bgColor": "#ffffff",
-            "fontSize": "1",
+            "fontSize": "1.15",
             "fontName": {
               "name": "Raleway",
               "url": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
@@ -1509,7 +1612,7 @@
             "sticky": false,
             "logo": false,
             "showBrand": true,
-            "collapsed": true,
+            "collapsed": false,
             "hideButtons": true
           },
           "logo": {
@@ -1528,7 +1631,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Amelie Vanden Berghe<br>Studente textielontwerp<br>LUCA School of Arts<br></a>",
+          "brand": "<a class=\"navbar-caption text-primary\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Amelie Vanden Berghe<br>Studente textielontwerp<br>LUCA School of Arts<br></a>",
           "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"true\" target=\"_blank\" data-toggle=\"dropdown-submenu\">\u001bLees meer</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">Home</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Over Amelie.html\">Over Amelie<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Beeldarchief.html\">Beeldarchief<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Borduurwerk.html\">Borduurwerk<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Weefsels.html\">Weefsels</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Breistructuren.html\">Breistructuren</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Schapenwol.html\">Schapenwol</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"contact\">Contact</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\" style=\"display: inline !important;\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
