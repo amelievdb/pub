@@ -139,7 +139,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Amelie Vanden Berghe<br>Studente textielontwerp<br>LUCA School of Arts<br></a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" target=\"_blank\" data-toggle=\"dropdown-submenu\">\u001bLees meer</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">Home</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Over Amelie.html\">Over Amelie<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Beeldarchief.html\">Beeldarchief<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Borduurwerk.html\">Borduurwerk<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Weefsels.html\">Weefsels</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Breistructuren.html\">Breistructuren</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Schapenwol.html\">Schapenwol</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"contact\">Contact</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://amelievdb.github.io/en/\" aria-expanded=\"false\" target=\"_blank\">EN</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\" style=\"display: inline !important;\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"true\" target=\"_blank\" data-toggle=\"dropdown-submenu\">\u001bLees meer</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">Home</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Over Amelie.html\">Over Amelie<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Beeldarchief.html\">Beeldarchief<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Borduurwerk.html\">Borduurwerk<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Weefsels.html\">Weefsels</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Breistructuren.html\">Breistructuren</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Schapenwol.html\">Schapenwol</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"contact\">Contact</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://amelievdb.github.io/en/\" aria-expanded=\"false\" target=\"_blank\">EN</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\" style=\"display: inline !important;\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_tags": [
@@ -1294,7 +1294,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Amelie Vanden Berghe<br>Studente textielontwerp<br>LUCA School of Arts<br></a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" target=\"_blank\" data-toggle=\"dropdown-submenu\">\u001bLees meer</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">Home</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Over Amelie.html\">Over Amelie<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Beeldarchief.html\">Beeldarchief<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Borduurwerk.html\">Borduurwerk<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Weefsels.html\">Weefsels</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Breistructuren.html\">Breistructuren</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Schapenwol.html\">Schapenwol</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"contact\">Contact</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://amelievdb.github.io/en/\" aria-expanded=\"false\" target=\"_blank\">EN</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\" style=\"display: inline !important;\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"true\" target=\"_blank\" data-toggle=\"dropdown-submenu\">\u001bLees meer</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">Home</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Over Amelie.html\">Over Amelie<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Beeldarchief.html\">Beeldarchief<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Borduurwerk.html\">Borduurwerk<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Weefsels.html\">Weefsels</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Breistructuren.html\">Breistructuren</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Schapenwol.html\">Schapenwol</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"contact\">Contact</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://amelievdb.github.io/en/\" aria-expanded=\"false\" target=\"_blank\">EN</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\" style=\"display: inline !important;\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_inherit": "gallery1",
@@ -1303,7 +1303,7 @@
           ],
           "_name": "gallery4",
           "_params": {
-            "paddingTop": 0,
+            "paddingTop": "2",
             "paddingBottom": "0",
             "images": [
               {
@@ -1344,7 +1344,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/achterkomer-2-2000x2666-67-2000x2666-68.jpg",
                 "image": "@PROJECT_PATH@/assets/images/achterkomer-2-2000x2666-67.jpg",
                 "caption": "Type caption here",
-                "active": true
+                "active": false
               },
               {
                 "tags": "Tijdsverloop",
@@ -1364,7 +1364,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/beeld-4-2000x3562-23-2000x3562-99.jpg",
                 "image": "@PROJECT_PATH@/assets/images/beeld-4-2000x3562-23.jpg",
                 "caption": "Type caption here",
-                "active": false
+                "active": true
               },
               {
                 "tags": "Structuur",
@@ -1419,7 +1419,7 @@
             ],
             "spacing": "1",
             "showText": false,
-            "filter": true,
+            "filter": false,
             "bgColor": "#ffffff",
             "filterBgColor": false,
             "fullWidth": true,
