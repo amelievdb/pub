@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "Over Amelie.html",
+    "currentPage": "index.html",
     "versionFirst": "3.8.1",
     "uniqCompNum": 125,
     "versionPublish": "4.3.2",
@@ -56,7 +56,11 @@
             "transparent": false,
             "bgColor": "#ffffff",
             "fontSize": "0.85",
-            "fontName": {},
+            "fontName": {
+              "name": "Lato",
+              "url": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
+              "css": "'Lato', sans-serif"
+            },
             "fontColor": "#282828",
             "fontHoverColor": "@primaryColor"
           },
@@ -74,13 +78,15 @@
               "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
             },
             ".navbar-toggler": {
-              "color": "#000000"
+              "color": "#282828"
             },
             ".close-icon::before, .close-icon::after": {
-              "background-color": "#000000"
+              "background-color": "#282828"
             },
             ".link, .dropdown-item": {
-              "color": "#000000"
+              "color": "#282828",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
+              "font-family": "'Lato', sans-serif"
             },
             ".link": {
               "font-size": "0.85rem"
@@ -101,7 +107,7 @@
               "background": "#ffffff"
             },
             ".bg-color.transparent .link": {
-              "color": "#000000",
+              "color": "#282828",
               "transition": "none"
             },
             ".bg-color.transparent.opened .link": {
@@ -153,8 +159,8 @@
             },
             ".mbr-section-title SPAN": {
               "color": "#ffffff",
-              "font-family": "'Raleway', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "font-family": "'Lato', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
               "font-size": "60px"
             },
             ".mbr-section-title DIV": {
@@ -417,7 +423,11 @@
             "transparent": false,
             "bgColor": "#ffffff",
             "fontSize": "0.85",
-            "fontName": {},
+            "fontName": {
+              "name": "Lato",
+              "url": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
+              "css": "'Lato', sans-serif"
+            },
             "fontColor": "#282828",
             "fontHoverColor": "@primaryColor"
           },
@@ -441,7 +451,9 @@
               "background-color": "#282828"
             },
             ".link, .dropdown-item": {
-              "color": "#282828"
+              "color": "#282828",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
+              "font-family": "'Lato', sans-serif"
             },
             ".link": {
               "font-size": "0.85rem"
@@ -560,7 +572,11 @@
             "transparent": false,
             "bgColor": "#ffffff",
             "fontSize": "0.85",
-            "fontName": {},
+            "fontName": {
+              "name": "Lato",
+              "url": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
+              "css": "'Lato', sans-serif"
+            },
             "fontColor": "#282828",
             "fontHoverColor": "@primaryColor"
           },
@@ -584,7 +600,9 @@
               "background-color": "#282828"
             },
             ".link, .dropdown-item": {
-              "color": "#282828"
+              "color": "#282828",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
+              "font-family": "'Lato', sans-serif"
             },
             ".link": {
               "font-size": "0.85rem"
@@ -740,7 +758,11 @@
             "transparent": false,
             "bgColor": "#ffffff",
             "fontSize": "0.85",
-            "fontName": {},
+            "fontName": {
+              "name": "Lato",
+              "url": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
+              "css": "'Lato', sans-serif"
+            },
             "fontColor": "#282828",
             "fontHoverColor": "@primaryColor"
           },
@@ -764,7 +786,9 @@
               "background-color": "#282828"
             },
             ".link, .dropdown-item": {
-              "color": "#282828"
+              "color": "#282828",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
+              "font-family": "'Lato', sans-serif"
             },
             ".link": {
               "font-size": "0.85rem"
@@ -914,7 +938,11 @@
             "transparent": false,
             "bgColor": "#ffffff",
             "fontSize": "0.85",
-            "fontName": {},
+            "fontName": {
+              "name": "Lato",
+              "url": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
+              "css": "'Lato', sans-serif"
+            },
             "fontColor": "#282828",
             "fontHoverColor": "@primaryColor"
           },
@@ -938,7 +966,9 @@
               "background-color": "#282828"
             },
             ".link, .dropdown-item": {
-              "color": "#282828"
+              "color": "#282828",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
+              "font-family": "'Lato', sans-serif"
             },
             ".link": {
               "font-size": "0.85rem"
@@ -1077,7 +1107,11 @@
             "transparent": false,
             "bgColor": "#ffffff",
             "fontSize": "0.85",
-            "fontName": {},
+            "fontName": {
+              "name": "Lato",
+              "url": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
+              "css": "'Lato', sans-serif"
+            },
             "fontColor": "#282828",
             "fontHoverColor": "@primaryColor"
           },
@@ -1101,7 +1135,9 @@
               "background-color": "#282828"
             },
             ".link, .dropdown-item": {
-              "color": "#282828"
+              "color": "#282828",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
+              "font-family": "'Lato', sans-serif"
             },
             ".link": {
               "font-size": "0.85rem"
@@ -1229,7 +1265,11 @@
             "transparent": false,
             "bgColor": "#ffffff",
             "fontSize": "0.85",
-            "fontName": {},
+            "fontName": {
+              "name": "Lato",
+              "url": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
+              "css": "'Lato', sans-serif"
+            },
             "fontColor": "#282828",
             "fontHoverColor": "@primaryColor"
           },
@@ -1253,7 +1293,9 @@
               "background-color": "#282828"
             },
             ".link, .dropdown-item": {
-              "color": "#282828"
+              "color": "#282828",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
+              "font-family": "'Lato', sans-serif"
             },
             ".link": {
               "font-size": "0.85rem"
