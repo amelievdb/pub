@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "page8.html",
+    "currentPage": "page10.html",
     "versionFirst": "3.8.1",
     "uniqCompNum": 128,
     "versionPublish": "4.3.2",
@@ -1595,8 +1595,8 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/13578953-1534506043231567-532187401-n.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/13578953-1534506043231567-532187401-n-637x960.jpg",
+                "image": "@PROJECT_PATH@/assets/images/13578953-1534506043231567-532187401-n-1.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/13578953-1534506043231567-532187401-n-1-637x960.jpg",
                 "alt": "",
                 "caption": "Type caption here",
                 "active": false
@@ -1606,8 +1606,8 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/13548957-1534506289898209-1095130184-o.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/13548957-1534506289898209-1095130184-o-800x531.jpg",
+                "image": "@PROJECT_PATH@/assets/images/13548957-1534506289898209-1095130184-o-1.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/13548957-1534506289898209-1095130184-o-1-800x531.jpg",
                 "alt": "",
                 "caption": "Type caption here",
                 "active": true
