@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "page10.html",
+    "currentPage": "Borduurwerk.html",
     "versionFirst": "3.8.1",
     "uniqCompNum": 128,
     "versionPublish": "4.3.2",
@@ -733,8 +733,23 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
               {
-                "active": true,
+                "active": false,
                 "image": "@PROJECT_PATH@/assets/images/p1030076.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": false,
+                "overlayOpacity": "0.4",
+                "contentAlign": "center",
+                "showTitle": false,
+                "title": "<span style=\"font-weight: normal;\">Over mij</span>",
+                "showText": false,
+                "text": "Als studente textielontwerp vind ik het belangrijk om me bezig te houden met de zintuiglijke ervaring die een oppervlakte kan opwekken. Ik ga aan het werk met diverse handmatige textiele technieken zoals breien en weven en hiervoor zoek ik specifieke materialen die ik vaak zelf maak. Door in het dagelijks leven steeds aandachtig rond te kijken in mijn omgeving valt mijn oog soms op interessante texturen of structuren die ik fotografeer en zo als inspiratiebron kan gebruiken.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": true,
+                "image": "@PROJECT_PATH@/assets/images/qsdkj.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": false,
