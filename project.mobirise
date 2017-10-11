@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "Over Amelie.html",
     "versionFirst": "3.8.1",
     "uniqCompNum": 128,
     "versionPublish": "4.3.2",
@@ -186,11 +186,11 @@
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "overlay": false,
+            "overlay": true,
             "overlayColor": "#282828",
             "overlayOpacity": "0.2"
           },
-          "title": "<span style=\"font-weight: normal;\">Amelie Vanden Berghe</span><div><br></div>",
+          "title": "<span style=\"font-weight: normal;\"><br></span><br><span style=\"font-weight: normal;\">Amelie Vanden Berghe</span><div><br></div>",
           "text": "",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>"
         },
@@ -411,7 +411,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 1
+        "order": 3
       },
       "components": [
         {
@@ -532,7 +532,7 @@
             "showTitle": true,
             "showText": true,
             "showButtons": true,
-            "showArrow": true,
+            "showArrow": false,
             "contentAlign": "left",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -560,7 +560,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 2
+        "order": 1
       },
       "components": [
         {
@@ -908,15 +908,15 @@
                 "active": false
               },
               {
-                "tags": "Awesome",
+                "tags": "Creative",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/p1030290-2.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/p1030290-2-800x600.jpg",
+                "image": "@PROJECT_PATH@/assets/images/p1030089.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/p1030089-800x600.jpg",
                 "alt": "",
                 "caption": "Type caption here",
-                "active": true
+                "active": false
               },
               {
                 "tags": "Animated",
@@ -930,15 +930,15 @@
                 "active": false
               },
               {
-                "tags": "Creative",
+                "tags": "Awesome",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/p1030089.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/p1030089-800x600.jpg",
+                "image": "@PROJECT_PATH@/assets/images/p1030290-1.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/p1030290-1-800x600.jpg",
                 "alt": "",
                 "caption": "Type caption here",
-                "active": false
+                "active": true
               },
               {
                 "tags": "Awesome",
@@ -967,7 +967,7 @@
       "settings": {
         "meta_descr": "Site Creator Description",
         "title": "It's lived, not explained",
-        "order": 3
+        "order": 2
       },
       "components": [
         {
