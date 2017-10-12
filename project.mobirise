@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "Over Amelie.html",
+    "currentPage": "index.html",
     "versionFirst": "3.8.1",
     "uniqCompNum": 130,
     "versionPublish": "4.3.2",
@@ -186,7 +186,7 @@
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "overlay": true,
+            "overlay": false,
             "overlayColor": "#282828",
             "overlayOpacity": "0.2"
           },
@@ -411,7 +411,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 4
+        "order": 1
       },
       "components": [
         {
@@ -560,7 +560,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 2
+        "order": 3
       },
       "components": [
         {
@@ -967,7 +967,7 @@
       "settings": {
         "meta_descr": "Site Creator Description",
         "title": "It's lived, not explained",
-        "order": 3
+        "order": 4
       },
       "components": [
         {
@@ -1654,7 +1654,7 @@
       "settings": {
         "meta_descr": "Web Generator Description",
         "title": "projecten",
-        "order": 1
+        "order": 2
       },
       "components": [
         {
